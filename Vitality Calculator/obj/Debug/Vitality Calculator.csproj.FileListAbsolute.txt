@@ -1,0 +1,10 @@
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.csprojAssemblyReference.cache
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\Vitality_Calculator.Properties.Resources.resources
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\MonsterMerger.UserInterface.StatCalculator.resources
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.csproj.GenerateResource.cache
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\bin\Debug\Vitality Calculator.exe.config
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\bin\Debug\Vitality Calculator.exe
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\bin\Debug\Vitality Calculator.pdb
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.exe
+C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.pdb
