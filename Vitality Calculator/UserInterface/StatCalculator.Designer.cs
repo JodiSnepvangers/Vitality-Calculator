@@ -419,11 +419,11 @@
             // 
             this.LabelTotal.AutoSize = true;
             this.LabelTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LabelTotal.Location = new System.Drawing.Point(88, 91);
+            this.LabelTotal.Location = new System.Drawing.Point(66, 91);
             this.LabelTotal.Name = "LabelTotal";
-            this.LabelTotal.Size = new System.Drawing.Size(86, 16);
+            this.LabelTotal.Size = new System.Drawing.Size(108, 16);
             this.LabelTotal.TabIndex = 118;
-            this.LabelTotal.Text = "Total Meters:";
+            this.LabelTotal.Text = "Total Movement:";
             // 
             // DisplayTotalSpeed
             // 
@@ -471,11 +471,11 @@
             // 
             this.LabelStep.AutoSize = true;
             this.LabelStep.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LabelStep.Location = new System.Drawing.Point(68, 68);
+            this.LabelStep.Location = new System.Drawing.Point(46, 68);
             this.LabelStep.Name = "LabelStep";
-            this.LabelStep.Size = new System.Drawing.Size(106, 16);
+            this.LabelStep.Size = new System.Drawing.Size(128, 16);
             this.LabelStep.TabIndex = 114;
-            this.LabelStep.Text = "Meters per Step:";
+            this.LabelStep.Text = "Movement per Step:";
             // 
             // DisplayLeftOver
             // 
@@ -566,7 +566,7 @@
             this.DisplayStepSpeed.TabIndex = 108;
             this.DisplayStepSpeed.Text = "0";
             this.DisplayStepSpeed.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.toolTip1.SetToolTip(this.DisplayStepSpeed, "The amount of movenement you can make with one Move Action");
+            this.toolTip1.SetToolTip(this.DisplayStepSpeed, "The amount of movement you can make with one Move Action");
             // 
             // label27
             // 

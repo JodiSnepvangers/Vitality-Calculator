@@ -8,3 +8,13 @@ C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\bin\Debug\Vi
 C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\bin\Debug\Vitality Calculator.pdb
 C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.exe
 C:\Users\jodis\source\repos\Vitality Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.pdb
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\bin\Debug\Vitality Calculator.exe.config
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\bin\Debug\Vitality Calculator.exe
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\bin\Debug\Vitality Calculator.pdb
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.csproj.AssemblyReference.cache
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\obj\Debug\Vitality_Calculator.Properties.Resources.resources
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\obj\Debug\MonsterMerger.UserInterface.StatCalculator.resources
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.csproj.GenerateResource.cache
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.csproj.CoreCompileInputs.cache
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.exe
+I:\Windows 10 Files\Documents\GitHub\Vitality-Calculator\Vitality Calculator\obj\Debug\Vitality Calculator.pdb
